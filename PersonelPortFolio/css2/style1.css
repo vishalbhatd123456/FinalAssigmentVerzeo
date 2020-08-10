@@ -1,0 +1,97 @@
+div{
+
+    background-color: #E4F9F5;
+}
+hr{
+    border: dotted;
+    border-bottom: none;
+    width:4%;
+}
+h1{
+    margin: 50px auto 0 auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: 69px;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2px;
+
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+body{
+    margin : 0px;
+    text-align : center;
+    color: #40514E;
+    
+}
+.p2{
+    font-family: 'Sacramento', cursive;
+}
+.p5{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: medium;
+    line-height: 2px;
+}
+.chilli-png{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 25px;
+}
+.top-container{
+    
+}
+.middle-container{
+    font-family: 'Sacramento', cursive;
+    
+    
+}
+.bottom-container{
+ 
+    
+    
+}
+.cl{
+    clear: left;
+}
+.m{
+    margin: auto;
+}
+.I4{
+    width:25%;
+    height: 10%;
+    margin-top: 40px;
+    float: left;
+    position: relative;
+    left: 200px;
+}
+.p1{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 30px;
+}
+.b{
+   background-color: #66BFBF;
+   padding : 50px 0 20px;
+    
+}
+a{
+    color : #EAF6F6;
+    text-decoration: none;
+}
+
+
+.I2{
+    width:1000px
+}
+.I3{
+    width:100px;
+    height:100px;
+}
+.p3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #EAF6F6;
+}
